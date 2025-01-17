@@ -40,9 +40,11 @@ Try adding, updating, and deleting books. You can also sign in with the followin
 
 ## Screenshots
 
-![Home](screenshots/home.png) <br><br>
-![Login](screenshots/login.png)<br><br>
-![Dashboard](screenshots/dashboard.png)<br>
+<p align="center">
+  <img src="screenshots/home.png" alt="Home" width="30%" />
+  <img src="screenshots/login.png" alt="Login" width="30%" />
+  <img src="screenshots/dashboard.png" alt="Dashboard" width="30%" />
+</p>
 
 ## License
 
