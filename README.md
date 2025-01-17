@@ -2,6 +2,14 @@
 
 This is a Library Management App built with Kotlin for Android. The app allows users to manage a collection of books, including adding, updating, and deleting books. It also supports user authentication and displays book covers using Glide.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/home.png" alt="Home" width="30%" />
+  <img src="screenshots/login.png" alt="Login" width="30%" />
+  <img src="screenshots/dashboard.png" alt="Dashboard" width="30%" />
+</p>
+
 ## Features
 
 - User authentication
@@ -37,14 +45,6 @@ Try adding, updating, and deleting books. You can also sign in with the followin
 4. **Update a book:**
 5. **Delete a book:**
 6. **Sign out:**
-
-## Screenshots
-
-<p align="center">
-  <img src="screenshots/home.png" alt="Home" width="30%" />
-  <img src="screenshots/login.png" alt="Login" width="30%" />
-  <img src="screenshots/dashboard.png" alt="Dashboard" width="30%" />
-</p>
 
 ## License
 
